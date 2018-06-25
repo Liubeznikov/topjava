@@ -9,6 +9,7 @@ public class UserMealWithExceed {
 
     private final int calories;
 
+
     private final boolean exceed;
 
     public UserMealWithExceed(LocalDateTime dateTime, String description, int calories, boolean exceed) {

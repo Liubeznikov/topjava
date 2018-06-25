@@ -7,6 +7,7 @@ public class UserMeal {
 
     private final String description;
 
+
     private final int calories;
 
     public UserMeal(LocalDateTime dateTime, String description, int calories) {
